@@ -12,7 +12,7 @@ Tree Algorithms
 
 
 Link to the Book:
-https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf
+https://drive.google.com/file/d/1MZpR_uB67ax0VSSzds57HAB2wBzPyXBK/view
 
 Group Number:
 08
