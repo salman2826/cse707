@@ -1,5 +1,5 @@
 Unlisted youtube video:
-
+https://youtu.be/IRCPf4pj0tA
 
 Conference submitted paper / paper submission / login Link:
 https://edas.info/index.php
@@ -8,7 +8,7 @@ Paper title:
 Detecting Colon Diseases using Privacy Preserving Federated Learning
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1SWdD06HaMGGrSdPNT1zVTeGbdEIpN1aC/edit?usp=share_link&ouid=104670302886254699417&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
 6 January
